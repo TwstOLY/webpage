@@ -1,0 +1,15 @@
+h5{
+    color:red;
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+li{
+    color: orangered;
+    font-style: italic;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    line-height: 40px;
+}
